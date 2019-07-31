@@ -6,6 +6,7 @@
 ### https://youtu.be/8xa0RWMwAOE
 ### https://www.springboottutorial.com/
 ### https://docs.spring.io/spring-boot/docs/2.1.6.RELEASE/reference/html/
+### https://corevalue.net/spring-boot-java-applications/
 
 ## Logging
 
